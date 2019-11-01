@@ -1,0 +1,18 @@
+.hero-box {
+    height: 40%;
+    min-height: 0.5em;
+    border: 5px solid rgb(124, 26, 26);
+    position: relative;
+    text-align: center;
+    color: rgb(255, 255, 255); 
+    /*background-image: url("");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;*/
+}
+
+.title-hero {
+    position: absolute;
+    top: 200px;
+    left: 160px;
+}
